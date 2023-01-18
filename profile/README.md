@@ -1,6 +1,7 @@
 ## Hi 👋
 
-🙋‍♀️ This is the team organization for Big Data Systems & Intelligence Analytics (DAMG 7245) - we will be working on assignments and project focused on building end-to-end solutions
+🙋 This is the team organization for Big Data Systems & Intelligence Analytics (DAMG 7245) - we will be working on assignments and project focused on building end-to-end solutions
+
 🧑‍💻 Work in progress...
 <!--
 
